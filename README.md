@@ -64,7 +64,7 @@ This project was developed with the assistance of **Antigravity**, an AI coding 
   {
       "title": "Learn Node.js",
       "description": "Master the basics of Express and PostgreSQL",
-      "status":"todo  /// no need to add status it is set as default to todo
+      "status":"todo " /// no need to add status it is set as default to todo
   }
   ```
 - **Output**:
@@ -140,3 +140,4 @@ This project was developed with the assistance of **Antigravity**, an AI coding 
       }
   }
   ```
+
