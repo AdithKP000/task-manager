@@ -45,7 +45,7 @@ A simple and robust Task Management API built with Express.js and PostgreSQL.
 
 ## Design Decisions
 - **Express.js**: Chosen for its simplicity and large ecosystem.
-- **PostgreSQL**: Used for direct and efficient PostgreSQL interaction.
+- **PG node (pg-node)**: Used for direct and efficient PostgreSQL interaction.
 - **RESTful Routes**: Standard API patterns used for consistency (`GET`, `POST`, `PUT`).
 - **Error Handling**: Implemented centralized catch blocks in controllers to return meaningful error messages and status codes (e.g., `504` for database errors).
 
